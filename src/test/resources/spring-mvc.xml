@@ -12,7 +12,10 @@
     http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd">
 
     <!-- Config: Scan Package -->
-    <context:component-scan base-package="com.company.project"/>
+    <context:component-scan base-package="com.company.project.web" use-default-filters="false">
+        <context:include-filter type="annotation"
+                                expression="org.springframework.stereotype.Controller" />
+    </context:component-scan>
 
     <!-- Config: Annotation Driven -->
     <mvc:annotation-driven/>
@@ -66,7 +69,7 @@
             <mvc:mapping path="/**"/>
             <mvc:exclude-mapping path="/home/**"></mvc:exclude-mapping>
             <mvc:exclude-mapping path="/staticmedia/**"></mvc:exclude-mapping>
-            <mvc:exclude-mapping path="/test/**"></mvc:exclude-mapping>
+            <mvc:exclude-mapping path="/test"></mvc:exclude-mapping>
             <bean class="com.company.project.common.util.Interceptor.LoggedInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>

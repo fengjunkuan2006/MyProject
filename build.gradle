@@ -97,15 +97,3 @@ ext {
 apply from: 'gradle/build-js.gradle'
 apply from: 'gradle/build-css.gradle'
 apply from: 'gradle/build-server.gradle'
-
-
-task taskX << {
-    FileCollection collection = files('gradle/build-js.gradle', new File('gradle/build-css.gradle'), ['gradle/build-server.gradle'])
-    collection.each {File file ->
-        println file.name
-    }
-    collection = collection - file('gradle/build-server.gradle')
-    collection.each {File file ->
-        println file.name
-    }
-}

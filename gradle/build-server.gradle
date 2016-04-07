@@ -30,3 +30,12 @@ task deployToServer(dependsOn: ['test', 'minifyJs', 'minifyCss', 'copyOtherFiles
         }
     }
 }
+
+//Deploy web app to local
+task deployToLocal(dependsOn: ['test', 'minifyJs', 'minifyCss', 'copyOtherFiles', war]) << {
+    copy {
+        from 'out/artifacts'
+        into "F:\\Program Files\\Apache Software Foundation\\apache-tomcat-8.0.28\\webapps"
+        //include '*.war'
+    }
+}
