@@ -40,33 +40,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-tx-4.1.8.RELEASE.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-web-4.1.6.RELEASE.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-webmvc-4.1.6.RELEASE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/com/company/project/service/AbstractTestContext.class" afterPath="$PROJECT_DIR$/build/classes/test/com/company/project/service/AbstractTestContext.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/CommonResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/CommonResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/DBException.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/DBException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/web/HomeController.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/web/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/IUserDAO.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/IUserDAO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/service/home/IUserService.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/service/home/IUserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/ListResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/ListResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Interceptor/LoggedInterceptor.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Interceptor/LoggedInterceptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/home/LoginUser.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/home/LoginUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/PropertiesUtil.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/PropertiesUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/ResultCodes.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/ResultCodes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SerializeUtil.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SerializeUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/ServiceException.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/ServiceException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SessionUtil.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SessionUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/SingleResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/SingleResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/SystemConstants.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/SystemConstants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableParamsModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableParamsModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/user/UpdateUser.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/user/UpdateUser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/entity/User.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/entity/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/web/UserController.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/web/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/impl/UserDAO.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/impl/UserDAO.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/entity/UserLog.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/entity/UserLog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/UserMapper.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/domains/home/UserMapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/home/UserResultCode.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/home/UserResultCode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/service/home/impl/UserService.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/service/home/impl/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/com/company/project/service/home/UserServiceTest.class" afterPath="$PROJECT_DIR$/build/classes/test/com/company/project/service/home/UserServiceTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
@@ -76,23 +49,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/TEST-com.company.project.service.home.UserServiceTest.xml" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.company.project.service.home.UserServiceTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/applicationContext.xml" afterPath="$PROJECT_DIR$/build/resources/test/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/build-server.gradle" afterPath="$PROJECT_DIR$/gradle/build-server.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/classes/com.company.project.service.home.UserServiceTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/classes/com.company.project.service.home.UserServiceTest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/packages/com.company.project.service.home.html" afterPath="$PROJECT_DIR$/build/reports/tests/packages/com.company.project.service.home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/spring-mvc.xml" afterPath="$PROJECT_DIR$/build/resources/test/spring-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/spring-mvc.xml" afterPath="$PROJECT_DIR$/src/test/resources/spring-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/config/dev/sysconfig.properties" afterPath="$PROJECT_DIR$/build/resources/test/config/dev/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/config/pro/sysconfig.properties" afterPath="$PROJECT_DIR$/build/resources/test/config/pro/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/config/qa/sysconfig.properties" afterPath="$PROJECT_DIR$/build/resources/test/config/qa/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/config/uat/sysconfig.properties" afterPath="$PROJECT_DIR$/build/resources/test/config/uat/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/config/dev/sysconfig.properties" afterPath="$PROJECT_DIR$/src/test/resources/config/dev/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/config/pro/sysconfig.properties" afterPath="$PROJECT_DIR$/src/test/resources/config/pro/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/config/qa/sysconfig.properties" afterPath="$PROJECT_DIR$/src/test/resources/config/qa/sysconfig.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/config/uat/sysconfig.properties" afterPath="$PROJECT_DIR$/src/test/resources/config/uat/sysconfig.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyProject.iws" />
@@ -128,11 +89,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7121212">
-              <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build-server.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gradle/build-server.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46604216">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -142,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
               <folding>
                 <element signature="e#1555#1569#0" expanded="true" />
                 <element signature="e#1622#1641#0" expanded="true" />
@@ -485,8 +456,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/project/web/TestController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/test/index.jspx" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/gradle/build-server.gradle" />
         <option value="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/gradle/build-server.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
@@ -716,7 +687,7 @@
       <recent name="com.company.project.common.constant" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.UserServiceTest">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8">
     <configuration default="false" name="UserServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -1146,7 +1117,7 @@
       <workItem from="1460009797490" duration="880000" />
       <workItem from="1460010736227" duration="528000" />
       <workItem from="1460011284874" duration="470000" />
-      <workItem from="1460011888063" duration="2203000" />
+      <workItem from="1460011888063" duration="2648000" />
     </task>
     <task id="LOCAL-00001" summary="Bug fix">
       <created>1460010904148</created>
@@ -1172,11 +1143,17 @@
       <option name="project" value="LOCAL" />
       <updated>1460012616103</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adjustment">
+      <created>1460015491879</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1460015491879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248406000" />
+    <option name="totallyTimeSpent" value="248851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1200,9 +1177,9 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4598726" sideWeight="0.49713466" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4598726" sideWeight="0.49713466" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42038217" sideWeight="0.49713466" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42038217" sideWeight="0.49713466" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26289397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1234,7 +1211,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug fix" />
+    <MESSAGE value="Adjustment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1525,10 +1503,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/build-server.gradle">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4722222">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1536,7 +1514,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding>
             <element signature="e#1555#1569#0" expanded="true" />
             <element signature="e#1622#1641#0" expanded="true" />
@@ -1552,10 +1530,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/gradle/build-server.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7121212">
-          <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.46604216">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="18" />
           <folding />
         </state>
       </provider>

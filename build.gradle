@@ -84,7 +84,6 @@ task copyJars(type: Copy) {
 // Test
 test {
     include '**/*Test.class'
-    println System.properties['config.path']
 }
 
 // Declare root & destination dir
