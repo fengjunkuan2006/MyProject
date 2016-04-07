@@ -72,6 +72,7 @@ dependencies {
             "org.springframework.data:spring-data-mongodb:1.8.1.RELEASE",
     )
     runtime("jstl:jstl:1.2")
+
 }
 
 // Copy jars
