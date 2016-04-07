@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.company.project.domains.home.UserMapper">
+
+    <select id="selectUserByName" parameterType="java.lang.String" resultType="User">
+        SELECT *
+        FROM users
+        WHERE username = #{value}
+    </select>
+
+    <select id="selectUserByConditionPaged" parameterType="TableParamsModel" resultType="User">
+        SELECT *
+        FROM users
+        WHERE 1 = 1
+        <if test="sSearch != null and sSearch!=''">
+          AND Username LIKE CONCAT('%', #{sSearch}, '%')
+        </if>
+    </select>
+
+    <select id="countUserByCondition" parameterType="TableParamsModel" resultType="java.lang.Integer">
+        SELECT COUNT(*)
+        FROM users
+        WHERE 1 = 1
+        <if test="sSearch != null and sSearch!=''">
+          AND Username LIKE CONCAT('%', #{sSearch}, '%')
+        </if>
+    </select>
+
+    <select id="selectUserById" parameterType="java.lang.Integer" resultType="User">
+        SELECT *
+        FROM users
+        WHERE userId = #{value}
+    </select>
+
+    <update id="updateUserById" parameterType="User">
+        UPDATE users
+        SET username = #{username}, password = #{password}
+        WHERE userId = #{userId}
+    </update>
+
+    <insert id="addUser" parameterType="UpdateUser">
+        INSERT INTO users(username, password)
+        VALUES(#{username}, #{password})
+    </insert>
+
+    <delete id="deleteUserById" parameterType="java.lang.Integer">
+        DELETE FROM users
+        WHERE userId = #{value}
+    </delete>
+
+</mapper>

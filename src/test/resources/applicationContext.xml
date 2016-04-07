@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:annotation-config/>
+    <bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="systemPropertiesModeName" value="SYSTEM_PROPERTIES_MODE_OVERRIDE" />
+        <property name="locations">
+            <list>
+                <value>classpath*:config/dev/sysconfig.properties</value>
+            </list>
+        </property>
+    </bean>
+
+    <!-- 1. Config: DriverManagerDataSource -->
+    <bean id="ds" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="url" value="${mysql.url}"></property>
+        <property name="username" value="${mysql.username}"></property>
+        <property name="password" value="${mysql.password}"></property>
+        <property name="driverClassName" value="${mysql.driverClassName}"></property>
+    </bean>
+    <!-- 2. Config: SqlSessionFactory -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="ds"></property>
+        <property name="mapperLocations" value="classpath*:com/company/project/domains/**/*Mapper.xml"></property>
+        <property name="typeAliasesPackage" value="com.company.project"></property>
+    </bean>
+    <!-- 3. Config: MapperScannerConfigure -->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.company.project.domains"></property>
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
+    </bean>
+    <!-- 4. Config: DatasourceTransactionManager -->
+    <bean id="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="ds"></property>
+    </bean>
+    <!-- 5. Config: Annotation Driven -->
+    <!--<tx:annotation-driven transaction-manager="txManager"></tx:annotation-driven>-->
+
+    <bean class="org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration"/>
+    <bean id="jedisConnectionFactory" class="org.springframework.data.redis.connection.jedis.JedisConnectionFactory">
+        <property name="hostName" value="${redis.hostname}"></property>
+        <property name="port" value="${redis.port}"></property>
+        <property name="usePool" value="${redis.usePool}"></property>
+    </bean>
+
+    <!-- Config: Support to upload files -->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>
+    <!-- Config: Configure BeanPostProcessor -->
+    <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
+</beans>

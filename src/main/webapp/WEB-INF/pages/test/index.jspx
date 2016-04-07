@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.1"
+          xmlns:af="http://xmlns.oracle.com/adf/faces/rich" xmlns:c="http://java.sun.com/jsp/jstl/core">
+    <jsp:directive.page contentType="text/html;charset=UTF-8" deferredSyntaxAllowedAsLiteral="true"/>
+    <af:document title="" id="d1">
+        <input value="#{messageSource.common.label.Search}"></input>
+        <input value="#{messages.common.label.Search}"></input>
+        <input value="#{i18n.common.label.Search}"></input>
+    </af:document>
+</jsp:root>
