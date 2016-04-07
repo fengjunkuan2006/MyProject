@@ -25,7 +25,7 @@
     <!-- Config: Resource View Resolver -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/pages/"></property>
-        <property name="suffix" value=".jspx"></property>
+        <property name="suffix" value=".jsp"></property>
     </bean>
 
     <!-- Config: JSON & String Converter -->
