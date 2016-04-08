@@ -24,7 +24,7 @@ public class UserServiceTest extends AbstractTestContext {
 
     @Test
     public void getUserByName() {
-        CommonResultModel result = userService.verifyCredential(new LoginUser("admin", "123456"));
+        CommonResultModel result = userService.verifyCredential(new LoginUser("admin", "123"));
 
         Assert.assertTrue(result.getCode() == ResultCodes.SUCCESS);
     }
