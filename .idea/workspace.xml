@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a7be33f-d85c-4cad-a5cd-dc2366a6b1e8" name="Default" comment="Bug fix">
+    <list default="true" id="9a7be33f-d85c-4cad-a5cd-dc2366a6b1e8" name="Default" comment="Test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/company/project/service/home/UserServiceTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/company/project/service/home/UserServiceTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -61,8 +61,8 @@
       <file leaf-file-name="UserServiceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/home/UserServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6485944">
-              <caret line="28" column="67" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+            <state vertical-scroll-proportion="0.57228917">
+              <caret line="26" column="94" selection-start-line="26" selection-start-column="94" selection-end-line="26" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -1153,7 +1153,7 @@
       <workItem from="1460010736227" duration="528000" />
       <workItem from="1460011284874" duration="470000" />
       <workItem from="1460011888063" duration="3905000" />
-      <workItem from="1460078589354" duration="2005000" />
+      <workItem from="1460078589354" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="Bug fix">
       <created>1460010904148</created>
@@ -1197,11 +1197,17 @@
       <option name="project" value="LOCAL" />
       <updated>1460086140809</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test">
+      <created>1460097214070</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1460097214070</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252113000" />
+    <option name="totallyTimeSpent" value="252782000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1262,7 +1268,8 @@
     <MESSAGE value="Adjustment" />
     <MESSAGE value="Gradle file fix" />
     <MESSAGE value="Commit jars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit jars" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1602,8 +1609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/home/UserServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6485944">
-          <caret line="28" column="67" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.57228917">
+          <caret line="26" column="94" selection-start-line="26" selection-start-column="94" selection-end-line="26" selection-end-column="94" />
           <folding />
         </state>
       </provider>
