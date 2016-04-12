@@ -64,13 +64,16 @@
     </bean>
 
     <!-- Config: Filter specified URL -->
+    <!--
     <mvc:interceptors>
         <mvc:interceptor>
             <mvc:mapping path="/**"/>
-            <mvc:exclude-mapping path="/home/**"></mvc:exclude-mapping>
+            <mvc:exclude-mapping path="/demo/**"></mvc:exclude-mapping>
+            <mvc:exclude-mapping path="/admin/demo/**"></mvc:exclude-mapping>
             <mvc:exclude-mapping path="/staticmedia/**"></mvc:exclude-mapping>
             <mvc:exclude-mapping path="/test"></mvc:exclude-mapping>
             <bean class="com.company.project.common.util.Interceptor.LoggedInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>
+    -->
 </beans>

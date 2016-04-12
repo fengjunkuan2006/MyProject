@@ -1,7 +1,7 @@
 package com.company.project.common.util;
 
 import com.company.project.common.constant.SystemConstants;
-import com.company.project.domains.home.entity.User;
+import com.company.project.domains.admin.home.entity.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
