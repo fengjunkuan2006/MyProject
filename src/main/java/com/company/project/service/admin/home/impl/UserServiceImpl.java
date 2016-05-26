@@ -7,19 +7,22 @@ import com.company.project.service.admin.home.IUserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
+
+import javax.annotation.Resource;
 
 /**
  * Created by Viki.Feng on 01/02/2016.
  */
 @Service
-public class UserService implements IUserService {
-    private static final Logger logger = LoggerFactory.getLogger(UserService.class);
+public class UserServiceImpl implements IUserService {
+    private static final Logger logger = LoggerFactory.getLogger(UserServiceImpl.class);
 
     @Autowired
     UserMapper userMapper;
     @Autowired
-    IUserDAO userDAO;
+    IUserDAO userDAOImpl;
 
     /**
      * Verify Credential

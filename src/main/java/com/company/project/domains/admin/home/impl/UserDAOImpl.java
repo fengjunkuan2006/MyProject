@@ -15,7 +15,7 @@ import java.util.List;
  * Created by Viki.Feng on 10/03/2016.
  */
 @Service
-public class UserDAO implements IUserDAO {
+public class UserDAOImpl implements IUserDAO {
     @Autowired
     private MongoTemplate mongoTemplate;
 

@@ -26,49 +26,15 @@
         </property>
     </bean>
 
-    <!-- 1. Config: DriverManagerDataSource -->
-    <bean id="ds" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
-        <property name="url" value="${mysql.url}"></property>
-        <property name="username" value="${mysql.username}"></property>
-        <property name="password" value="${mysql.password}"></property>
-        <property name="driverClassName" value="${mysql.driverClassName}"></property>
-    </bean>
-    <!-- 2. Config: SqlSessionFactory -->
-    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
-        <property name="dataSource" ref="ds"></property>
-        <property name="mapperLocations" value="classpath*:com/company/project/domains/**/*Mapper.xml"></property>
-        <property name="typeAliasesPackage" value="com.company.project"></property>
-    </bean>
-    <!-- 3. Config: MapperScannerConfigure -->
-    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="com.company.project.domains"></property>
-        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
-    </bean>
-    <!-- 4. Config: DatasourceTransactionManager -->
-    <bean id="txManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-        <property name="dataSource" ref="ds"></property>
-    </bean>
-    <!-- 5. Config: Annotation Driven -->
-    <!--<tx:annotation-driven transaction-manager="txManager"></tx:annotation-driven>-->
-
-    <bean class="org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration"/>
-    <bean id="jedisConnectionFactory" class="org.springframework.data.redis.connection.jedis.JedisConnectionFactory">
-        <property name="hostName" value="${redis.hostname}"></property>
-        <property name="port" value="${redis.port}"></property>
-        <property name="usePool" value="${redis.usePool}"></property>
-    </bean>
-
-    <!-- Config: Mongo template -->
-    <mongo:mongo host="${mongo.hostname}" port="${mongo.port}"></mongo:mongo>
-    <bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
-        <constructor-arg ref="mongo"/>
-        <constructor-arg name="databaseName" value="${mongo.database}"/>
-    </bean>
-
     <!-- Config: Support to upload files -->
     <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
         <property name="defaultEncoding" value="UTF-8"></property>
     </bean>
     <!-- Config: Configure BeanPostProcessor -->
     <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
+
+    <import resource="spring-mybatis.xml"/>
+    <import resource="spring-hibernate.xml"/>
+    <import resource="spring-redis.xml"/>
+    <import resource="spring-mongodb.xml"/>
 </beans>
