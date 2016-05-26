@@ -5,9 +5,11 @@ import com.company.project.domains.admin.home.entity.Student;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.criterion.Example;
+import org.hibernate.criterion.Restrictions;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
+import java.util.List;
 
 /**
  * Created by Viki.Feng on 10/03/2016.
@@ -23,10 +25,13 @@ public class StudentDAOImpl implements IStudentDAO {
 
     public Student selectStudentById(int studentId) {
         org.hibernate.Criteria criteria = getSession().createCriteria(Student.class);
-        Student student = new Student();
-        student.setId(1);
-        criteria.add(Example.create(student));
+        criteria.add(Restrictions.eq("age", 12));
 
-        return (Student) criteria.list().get(0);
+        List students = criteria.list();
+        if (students.size() > 0) {
+            return (Student)students.get(0);
+        }
+
+        return null;
     }
 }
