@@ -1,163 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_36.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_4_3_11_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_4_3_11_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_5_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_logback_extensions_logback_ext_spring_0_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mongodb_mongo_java_driver_2_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_spring_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_11_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_mongodb_1_8_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_redis_1_4_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_session_spring_session_1_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_session_spring_session_data_redis_1_0_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__redis_clients_jedis_2_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/spring-hibernate.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/spring-mongodb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/spring-mybatis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/spring-redis.xml" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.gradle\2.8\taskArtifacts\cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.gradle\2.8\taskArtifacts\cache.properties.lock" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.gradle\2.8\taskArtifacts\fileHashes.bin" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.gradle\2.8\taskArtifacts\fileSnapshots.bin" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.gradle\2.8\taskArtifacts\outputFileStates.bin" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.gradle\2.8\taskArtifacts\taskArtifacts.bin" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.idea\codeStyleSettings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.idea\flexCompiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\.idea\uiDesigner.xml" afterPath="" />
+    <list default="true" id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="Project Adjustment">
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\constant\ResultCodes.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\constant\SystemConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\CommonResultModel.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\ListResultModel.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\SingleResultModel.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\TableParamsModel.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\TableResultModel.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\Exception\DBException.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\Exception\ServiceException.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\Interceptor\LoggedInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\PropertiesUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\SerializeUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\SessionUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\test\com\company\project\service\AbstractTestContext.class" afterPath="" />
       <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\classes\com.company.project.service.home.UserServiceTest.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\css\base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\js\report.js" afterPath="" />
       <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\packages\com.company.project.service.home.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\appconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\dev\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\pro\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\qa\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\uat\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\messages_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\messages_zh.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\appconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\dev\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\pro\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\qa\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\uat\sysconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\spring-mvc.xml" afterPath="" />
       <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\TEST-com.company.project.service.home.UserServiceTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\gradle-app.setting" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\classmate-1.3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\commons-io-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\commons-pool2-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\geronimo-jta_1.1_spec-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\hamcrest-core-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\hibernate-core-5.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\hibernate-entitymanager-5.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jackson-annotations-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jackson-core-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jackson-databind-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jandex-2.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\javassist-3.20.0-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\javax.servlet-api-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jboss-logging-3.3.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jcl-over-slf4j-1.7.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jedis-2.5.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\junit-4.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\logback-classic-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\logback-core-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\logback-ext-spring-0.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\mongo-java-driver-2.13.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\mybatis-3.2.8.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\mybatis-spring-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\mysql-connector-java-5.1.36.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\slf4j-api-1.7.13.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-aop-4.1.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-beans-4.1.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-context-4.1.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-context-support-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-core-4.1.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-data-commons-1.11.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-data-mongodb-1.8.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-data-redis-1.4.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-expression-4.1.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-jdbc-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-orm-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-session-1.0.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-session-data-redis-1.0.2.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-test-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-tx-4.1.8.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-web-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\spring-webmvc-4.1.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\lib\xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/com/company/project/service/AbstractTestContext.class" afterPath="$PROJECT_DIR$/build/classes/test/com/company/project/service/AbstractTestContext.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/CommonResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/CommonResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/DBException.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/DBException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/ListResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/ListResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Interceptor/LoggedInterceptor.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Interceptor/LoggedInterceptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/PropertiesUtil.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/PropertiesUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/ResultCodes.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/ResultCodes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SerializeUtil.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SerializeUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/ServiceException.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/Exception/ServiceException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SessionUtil.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/util/SessionUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/SingleResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/SingleResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/SystemConstants.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/constant/SystemConstants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableParamsModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableParamsModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableResultModel.class" afterPath="$PROJECT_DIR$/build/classes/main/com/company/project/common/model/TableResultModel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java" afterPath="$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___MyProject_MyProject___MyProject_1_0_SNAPSHOT_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___MyProject_MyProject___MyProject_1_0_SNAPSHOT_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___MyProject_MyProject___MyProject_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___MyProject_MyProject___MyProject_1_0_SNAPSHOT_war__exploded_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyProject.iml" afterPath="$PROJECT_DIR$/MyProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/impl/StudentServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/impl/StudentServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/applicationContext.xml" afterPath="$PROJECT_DIR$/build/resources/test/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/spring-mvc.xml" afterPath="$PROJECT_DIR$/build/resources/test/spring-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/spring-mvc.xml" afterPath="$PROJECT_DIR$/src/test/resources/spring-mvc.xml" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\binary\test\output.bin" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\binary\test\output.bin.idx" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\binary\test\results.bin" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyProject.iws" />
@@ -193,11 +78,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AbstractTestContext.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java">
+      <file leaf-file-name="signIn.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5530146">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state vertical-scroll-proportion="23.75">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3257262">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -776,6 +671,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -860,7 +762,7 @@
       <recent name="E:\Java\Work\MyProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.UserServiceTest">
+  <component name="RunManager" selected="Tomcat Server.Tomcat8">
     <configuration default="false" name="UserServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -1239,12 +1141,19 @@
       <option name="number" value="Default" />
       <updated>1465721818523</updated>
       <workItem from="1465721821101" duration="2374000" />
-      <workItem from="1465724238986" duration="138000" />
+      <workItem from="1465724238986" duration="537000" />
     </task>
+    <task id="LOCAL-00001" summary="Project Adjustment">
+      <created>1465724440909</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465724440909</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2512000" />
+    <option name="totallyTimeSpent" value="2911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1456" height="916" extended-state="0" />
@@ -1252,12 +1161,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5028653" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32806325" sideWeight="0.49713466" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1268,18 +1179,21 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3992095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3992095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Adjustment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Adjustment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1367,14 +1281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6701245">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/impl/StudentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6307054">
@@ -1409,8 +1315,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5530146">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.43451142">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="23.75">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6701245">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3257262">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
