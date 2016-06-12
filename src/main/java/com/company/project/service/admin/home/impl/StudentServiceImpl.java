@@ -21,7 +21,7 @@ public class StudentServiceImpl implements IStudentService {
     IStudentDAO studentDAOImpl;
 
     public SingleResultModel<Student> getStudentById(int studentId) {
-        SingleResultModel<Student> result = new SingleResultModel<>();
+        SingleResultModel<Student> result = new SingleResultModel();
         result.setData(studentDAOImpl.selectStudentById(studentId));
 
         return result;

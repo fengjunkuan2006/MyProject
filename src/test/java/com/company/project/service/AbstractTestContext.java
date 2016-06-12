@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @Transactional
-@ContextConfiguration(locations = {"classpath:/applicationContext.xml", "classpath:/spring-mvc.xml"})
+@ContextConfiguration(locations = {"classpath:/applicationContext.xml"})
 @WebAppConfiguration
 @FixMethodOrder(MethodSorters.DEFAULT)
 public abstract class AbstractTestContext {
