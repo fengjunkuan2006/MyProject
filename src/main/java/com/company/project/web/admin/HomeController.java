@@ -33,8 +33,18 @@ public class HomeController {
      * @return
      */
     @RequestMapping("/indexPage")
-    public String getLoginPage() {
+    public String getHomePage() {
         return "/admin/index";
+    }
+
+    /**
+     * Display Login Page
+     *
+     * @return
+     */
+    @RequestMapping("/signInPage")
+    public String getLoginPage() {
+        return "/admin/signIn";
     }
 
     /**

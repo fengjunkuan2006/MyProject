@@ -1,48 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="Project Adjustment">
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\constant\ResultCodes.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\constant\SystemConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\CommonResultModel.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\ListResultModel.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\SingleResultModel.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\TableParamsModel.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\model\TableResultModel.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\Exception\DBException.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\Exception\ServiceException.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\Interceptor\LoggedInterceptor.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\PropertiesUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\SerializeUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\main\com\company\project\common\util\SessionUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\classes\test\com\company\project\service\AbstractTestContext.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\classes\com.company.project.service.home.UserServiceTest.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\css\base-style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\js\report.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\reports\tests\packages\com.company.project.service.home.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\appconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\dev\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\pro\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\qa\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\config\uat\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\messages_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\messages_zh.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\main\spring-mvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\appconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\dev\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\pro\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\qa\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\config\uat\sysconfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\resources\test\spring-mvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\TEST-com.company.project.service.home.UserServiceTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\binary\test\output.bin" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\binary\test\output.bin.idx" afterPath="" />
-      <change type="DELETED" beforePath="E:\Java\Work\MyProject\build\test-results\binary\test\results.bin" afterPath="" />
+    <list default="true" id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MyProject.iws" />
@@ -77,28 +38,7 @@
     <favorites_list name="MyProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="signIn.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="23.75">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.3257262">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -664,6 +604,8 @@
         <option value="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp" />
       </list>
     </option>
   </component>
@@ -756,6 +698,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin" />
       <recent name="E:\Java\Work\MyProject\src\test\resources" />
       <recent name="E:\Java\Work\MyProject\src\test" />
       <recent name="E:\Java\Work\MyProject\src\main" />
@@ -1141,7 +1084,7 @@
       <option name="number" value="Default" />
       <updated>1465721818523</updated>
       <workItem from="1465721821101" duration="2374000" />
-      <workItem from="1465724238986" duration="537000" />
+      <workItem from="1465724238986" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="Project Adjustment">
       <created>1465724440909</created>
@@ -1149,11 +1092,17 @@
       <option name="project" value="LOCAL" />
       <updated>1465724440909</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Project Adjustment">
+      <created>1465724800104</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1465724800104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2911000" />
+    <option name="totallyTimeSpent" value="3289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1456" height="916" extended-state="0" />
@@ -1321,18 +1270,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="23.75">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6701245">
           <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75330395">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="68" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4339207">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32987553">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding />
         </state>
       </provider>
