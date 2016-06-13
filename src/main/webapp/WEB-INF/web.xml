@@ -49,6 +49,21 @@
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 
+    <!-- Error Page -->
+    <error-page>
+        <error-code>404</error-code>
+        <location>/pages/404</location>
+    </error-page>
+    <error-page>
+        <error-code>500</error-code>
+        <location>/pages/500</location>
+    </error-page>
+
+    <!-- Config: Session Timeout -->
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+
     <!-- Config: ContextLoaderListener -->
     <context-param>
         <param-name>contextConfigLocation</param-name>
@@ -57,11 +72,6 @@
     <listener>
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
-
-    <!-- Config: Session Timeout -->
-    <session-config>
-        <session-timeout>30</session-timeout>
-    </session-config>
 
     <!-- Config: Spring Session Repository Filter -->
     <filter>

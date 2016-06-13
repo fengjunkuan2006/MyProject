@@ -48,6 +48,16 @@ public class HomeController {
     }
 
     /**
+     * Display Sign-Up Page
+     *
+     * @return
+     */
+    @RequestMapping("/signUpPage")
+    public String getSignUpPage() {
+        return "/admin/signUp";
+    }
+
+    /**
      * Display User Page
      *
      * @return

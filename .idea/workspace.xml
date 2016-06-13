@@ -1,10 +1,371 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp" />
+    <list default="true" id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="Add Login Page">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/media/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/preview/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1083978.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/preview/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1139155.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1170492.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1192482.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/preview/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1205972.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1208847.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/1248972.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/preview/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/1a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/1b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/2a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/2b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/media/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/319768_8498.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/3a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/3b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/403944_5580.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/43616_6206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/442256_20337880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/442256_20337880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/463600_31373324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/471397.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/472381_10949156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/472381_10949156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/485382_81894547.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/4a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/4b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/media/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/503993_62595320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/503993_62595320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/544337_83543416.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/5b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/media/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/625998_12886207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/625998_12886207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/653195.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/671385.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/6b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/737034_24905666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/737034_24905666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/760375_32906821.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/764343.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/789080_16753532.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/789080_16753532.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/797762.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/7b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/preview/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/888272_30368604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/888272_30368604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/preview/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/912129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/people/923068.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/arrow-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/arrow-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/arrow-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/arrow-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fancyZoom/img/closebox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/hs-2004-27-a-large_web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/loading9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/middleman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/tumblr_mopqkkwK2M1st5lhmo1_1280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-icons_2694e8_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-icons_3d80b3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-icons_72a7cf_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/API.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/FAQ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/NEWS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/PLUGINS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/jqueryKnob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/agenda-views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/annotating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/basic-views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-eu-gdp-growth-1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-eu-gdp-growth-2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-eu-gdp-growth-3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-eu-gdp-growth-4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-eu-gdp-growth-5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-eu-gdp-growth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-japan-gdp-growth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/data-usa-gdp-growth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/external-dragging.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fancyZoom/src/fancyzoom.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fancyZoom/css/fancyzoom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fancyZoom/src/fancyzoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/gcal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/graph-types.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/blog/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/faces/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/gallery/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/images/admin/loading-icons/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fancyZoom/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/jqueryKnob/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/interacting-axes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/interacting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/isotope.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/lib/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/cupertino/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/jqueryKnob/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/lib/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/json-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/jqueryKnob/knob.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/multiple-axes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/navigate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/percentiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/premium.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/realtime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/selectable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/setting-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signUp.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/stacking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/symbols.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/demos/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/thresholding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/tracking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/turning-series.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/visitors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/examples/zooming.html" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\java\com\company\project\domains\admin\home\IStudentDAO.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\java\com\company\project\domains\admin\home\entity\Student.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\java\com\company\project\domains\admin\home\impl\StudentDAOImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\java\com\company\project\service\admin\home\IStudentService.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\java\com\company\project\service\admin\home\impl\StudentServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\demo\403.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\demo\404.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\demo\500.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\demo\503.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\bootstrap\css\bootstrap2.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\fullcalendar\css\fullcalendar.print.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\images\admin\background.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\images\admin\black-Linen.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\images\admin\blue-paper.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\images\admin\extra_clean_paper.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\images\admin\furley_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\images\admin\subtle_surface.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/404.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/404.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/common.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/common.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/common.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/common.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/common.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/common.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/elements.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/elements.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/faq.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/faq.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/help.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/help.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/media.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/media.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/privacyPolicy.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/privacyPolicy.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/resetPassword.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/resetPassword.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signUp.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signUp.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/termsAndConditions.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/termsAndConditions.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/theme.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/user.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/user.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/user.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/user.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/users.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/users.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/template.jsp" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\template.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/calendar.jsp" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\template.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/index.jsp" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\bootstrap\css\bootstrap3.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\.gitignore" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/.gitignore" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\FontAwesome-Vectors.pdf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/FontAwesome-Vectors.pdf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\FontAwesome.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/FontAwesome.ttf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\README.md" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/README.md" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\css\font-awesome-ie7.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/css/font-awesome-ie7.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\css\font-awesome-ie7.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/css/font-awesome-ie7.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\css\font-awesome.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/css/font-awesome.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\css\prettify.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/css/prettify.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\css\site.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/css/site.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\museo_slab_300-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/museo_slab_300-webfont.eot" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\museo_slab_300-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/museo_slab_300-webfont.ttf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\museo_slab_500-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/museo_slab_500-webfont.eot" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\museo_slab_500-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/museo_slab_500-webfont.ttf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\proximanova-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/proximanova-webfont.eot" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\font\proximanova-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/font/proximanova-webfont.ttf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\ico\favicon.ico" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/ico/favicon.ico" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\backbone.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/backbone.min.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\index\index.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/index/index.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/jquery-1.7.1.min.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\prettify.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/prettify.min.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-alert.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-alert.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-button.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-button.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-carousel.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-carousel.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-collapse.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-collapse.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-dropdown.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-modal.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-modal.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-popover.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-popover.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-scrollspy.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-tab.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-tab.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-tooltip.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-tooltip.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-transition.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-transition.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\tw-bs-201\bootstrap-typeahead.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/tw-bs-201/bootstrap-typeahead.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\js\underscore.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/js/underscore.min.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\font-awesome-ie7.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/font-awesome-ie7.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\font-awesome.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/font-awesome.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\font-site.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/font-site.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\mixins.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/mixins.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\site.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/site.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\accordion.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/accordion.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\alerts.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/alerts.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\bootstrap.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/bootstrap.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\breadcrumbs.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/breadcrumbs.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\button-groups.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/button-groups.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\buttons.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/buttons.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\carousel.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/carousel.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\close.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/close.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\code.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/code.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\component-animations.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/component-animations.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\dropdowns.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/dropdowns.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\forms.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/forms.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\grid.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/grid.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\hero-unit.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/hero-unit.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\labels-badges.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/labels-badges.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\layouts.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/layouts.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\mixins.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/mixins.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\modals.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/modals.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\navbar.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/navbar.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\navs.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/navs.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\pager.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/pager.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\pagination.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/pagination.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\popovers.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/popovers.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\progress-bars.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/progress-bars.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\reset.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/reset.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\responsive-1200px-min.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/responsive-1200px-min.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\responsive-767px-max.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/responsive-767px-max.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\responsive-768px-979px.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/responsive-768px-979px.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\responsive-navbar.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/responsive-navbar.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\responsive-utilities.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/responsive-utilities.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\responsive.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/responsive.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\scaffolding.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/scaffolding.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\sprites.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/sprites.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\tables.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/tables.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\thumbnails.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/thumbnails.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\tooltip.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/tooltip.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\type.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/type.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\utilities.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/utilities.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\variables.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/variables.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\twbs-203\wells.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/twbs-203/wells.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\assets\less\variables.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/assets/less/variables.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\docs\index.html" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/index.html" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\font\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/font/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\font\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/font/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\font\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/font/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\font\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/font/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\less\font-awesome-ie7.less" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/less/font-awesome-ie7.less" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\sass\font-awesome.sass" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/sass/font-awesome.sass" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\font-awesome\sass\font-awesome.scss" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/sass/font-awesome.scss" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\fullcalendar\css\fullcalendar.css" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/fullcalendar/fullcalendar.css" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\fullcalendar\js\fullcalendar.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/fullcalendar/fullcalendar.js" />
+      <change type="MOVED" beforePath="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\fullcalendar\js\gcal.js" afterPath="$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/fullcalendar/gcal.js" />
     </list>
     <ignored path="MyProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +399,108 @@
     <favorites_list name="MyProject" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.714286">
+              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/media.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.714286">
+              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="privacyPolicy.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/privacyPolicy.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.714286">
+              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resetPassword.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/resetPassword.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.392857">
+              <caret line="50" column="46" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signIn.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.392857">
+              <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signUp.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signUp.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.392857">
+              <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="termsAndConditions.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/termsAndConditions.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.714286">
+              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/user.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.392857">
+              <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/users.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.714286">
+              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/404.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39207047">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -601,11 +1063,35 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/impl/StudentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/template.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/common.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/common.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signUp.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/user.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/calendar.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/faq.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/help.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/media.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/privacyPolicy.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/resetPassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signUp.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/termsAndConditions.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/user.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/users.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/404.jsp" />
       </list>
     </option>
   </component>
@@ -659,9 +1145,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -695,14 +1181,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin" />
-      <recent name="E:\Java\Work\MyProject\src\test\resources" />
-      <recent name="E:\Java\Work\MyProject\src\test" />
-      <recent name="E:\Java\Work\MyProject\src\main" />
-      <recent name="E:\Java\Work\MyProject" />
+      <recent name="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components" />
+      <recent name="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\bootstrap\css" />
+      <recent name="E:\Java\Work\MyProject\out\artifacts\MyProject\exploded\MyProject-1.0-SNAPSHOT.war\staticmedia\components\bootstrap\css" />
+      <recent name="E:\Java\Work\MyProject\src\main\webapp\WEB-INF\pages\admin\demo" />
+      <recent name="E:\Java\Work\MyProject\src\main\webapp\staticmedia\components\bootstrap" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat8">
@@ -1077,6 +1564,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9d7b38e2-1386-47ed-a659-961e9e4c2aec" name="Default" comment="" />
@@ -1084,7 +1574,8 @@
       <option name="number" value="Default" />
       <updated>1465721818523</updated>
       <workItem from="1465721821101" duration="2374000" />
-      <workItem from="1465724238986" duration="915000" />
+      <workItem from="1465724238986" duration="956000" />
+      <workItem from="1465782087397" duration="10095000" />
     </task>
     <task id="LOCAL-00001" summary="Project Adjustment">
       <created>1465724440909</created>
@@ -1098,11 +1589,17 @@
       <option name="project" value="LOCAL" />
       <updated>1465724800104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Login Page">
+      <created>1465725178560</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1465725178560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3289000" />
+    <option name="totallyTimeSpent" value="13425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1456" height="916" extended-state="0" />
@@ -1110,19 +1607,20 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5028653" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32806325" sideWeight="0.49713466" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.49713466" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1134,15 +1632,23 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project Adjustment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Adjustment" />
+    <MESSAGE value="Add Login Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Login Page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1155,157 +1661,417 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/domains/admin/home/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/build-js.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5135135">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/company/project/domains/admin/home/userMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/404.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/IStudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2765073">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/web/admin/DemoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21413721">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/IUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35514018">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7240664">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/spring-hibernate.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8807947">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/admin/home/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.526971">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/service/admin/home/impl/StudentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6307054">
-          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/domains/admin/home/IStudentDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27593362">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/domains/admin/home/impl/StudentDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3153527">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/config/qa/sysconfig.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/company/project/service/AbstractTestContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43451142">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6701245">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75330395">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="68" selection-end-column="9" />
+        <state vertical-scroll-proportion="-16.964285">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/js/easing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4339207">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/js/admin/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7095436">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/domains/admin/home/IUserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32987553">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.43360996">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/css/admin/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71145374">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3257262">
+        <state vertical-scroll-proportion="0.25518674">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/portfolio.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/template.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5859031">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5198238">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/features.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/about.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/about.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.12555066">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/template.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.714286">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/web/admin/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.400415">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/project/web/admin/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6846473">
+          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding>
+            <element signature="e#1075#1076#0" expanded="false" />
+            <element signature="e#1112#1113#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.785714">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/MyProject/exploded/MyProject-1.0-SNAPSHOT.war/staticmedia/components/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55186725">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31057268">
+          <caret line="711" column="23" selection-start-line="711" selection-start-column="23" selection-end-line="711" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/fancyZoom/css/fancyzoom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/flot/API.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/fontAwesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/fullCalendar/lib/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/staticmedia/components/jqueryKnob/js/jquery.knob.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.821428">
+          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.107143">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signIn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/signUp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.392857">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/calendar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="42" column="46" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/faq.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/help.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/media.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/privacyPolicy.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/resetPassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="50" column="46" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signIn.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="53" column="46" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/signUp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.392857">
+          <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/termsAndConditions.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.392857">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/demo/users.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.714286">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/demo/404.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39207047">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
           <folding />
         </state>
       </provider>

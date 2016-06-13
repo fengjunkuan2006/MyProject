@@ -34,7 +34,9 @@
     <bean class="org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor"/>
 
     <import resource="spring-mybatis.xml"/>
+    <!--
     <import resource="spring-hibernate.xml"/>
+    -->
     <import resource="spring-redis.xml"/>
     <import resource="spring-mongodb.xml"/>
 </beans>

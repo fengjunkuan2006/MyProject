@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="keywords" content=""/>
 
-<link href="/staticmedia/components/bootstrap/css/bootstrap3.css" rel='stylesheet' type='text/css'/>
+<link href="/staticmedia/components/bootstrap/css/bootstrap.css" rel='stylesheet' type='text/css'/>
 <link href="/staticmedia/css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <link href='http://fonts.useso.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
 

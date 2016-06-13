@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
   User: Viki.Feng
-  Date: 2016/4/11
-  Time: 14:06
+  Date: 2016/4/12
+  Time: 13:27
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -22,140 +22,129 @@
 <!--[if IE 9 ]>
 <body class="ie ie9 "> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<body class="">
+<body class=" theme-blue">
 <!--<![endif]-->
-
+<!-- header -->
 <jsp:include flush="true" page="header.jsp"/>
 
+<!-- content -->
 
 <div class="content">
-
     <div class="header">
         <div class="stats">
-            <p class="stat"><span class="number">53</span>tickets</p>
+            <p class="stat"><span class="label label-info">5</span> Tickets</p>
 
-            <p class="stat"><span class="number">27</span>tasks</p>
+            <p class="stat"><span class="label label-success">27</span> Tasks</p>
 
-            <p class="stat"><span class="number">15</span>waiting</p>
+            <p class="stat"><span class="label label-danger">15</span> Overdue</p>
         </div>
 
         <h1 class="page-title">Dashboard</h1>
+        <ul class="breadcrumb">
+            <li><a href="/admin/home/indexPage">Home</a></li>
+            <li class="active">Dashboard</li>
+        </ul>
+
     </div>
-
-    <ul class="breadcrumb">
-        <li><a href="/admin/home/indexPage">Home</a> <span class="divider">/</span></li>
-        <li class="active">Dashboard</li>
-    </ul>
-
-    <div class="container-fluid">
-        <div class="row-fluid">
+    <div class="main-content">
 
 
-            <div class="row-fluid">
+        <div class="panel panel-default">
+            <a href="#page-stats" class="panel-heading" data-toggle="collapse">Latest Stats</a>
 
-                <div class="alert alert-info">
-                    <button type="button" class="close" data-dismiss="alert">×</button>
-                    <strong>Just a quick note:</strong> Hope you like the theme!
-                </div>
+            <div id="page-stats" class="panel-collapse panel-body collapse in">
 
-                <div class="block">
-                    <a href="#page-stats" class="block-heading" data-toggle="collapse">Latest Stats</a>
+                <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="knob-container">
+                            <input class="knob" data-width="200" data-min="0" data-max="3000"
+                                   data-displayPrevious="true" value="2500" data-fgColor="#92A3C2" data-readOnly=true;>
 
-                    <div id="page-stats" class="block-body collapse in">
+                            <h3 class="text-muted text-center">Accounts</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="knob-container">
+                            <input class="knob" data-width="200" data-min="0" data-max="4500"
+                                   data-displayPrevious="true" value="3299" data-fgColor="#92A3C2" data-readOnly=true;>
 
-                        <div class="stat-widget-container">
-                            <div class="stat-widget">
-                                <div class="stat-button">
-                                    <p class="title">2,500</p>
+                            <h3 class="text-muted text-center">Subscribers</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="knob-container">
+                            <input class="knob" data-width="200" data-min="0" data-max="2700"
+                                   data-displayPrevious="true" value="1840" data-fgColor="#92A3C2" data-readOnly=true;>
 
-                                    <p class="detail">Accounts</p>
-                                </div>
-                            </div>
+                            <h3 class="text-muted text-center">Pending</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="knob-container">
+                            <input class="knob" data-width="200" data-min="0" data-max="15000"
+                                   data-displayPrevious="true" value="10067" data-fgColor="#92A3C2" data-readOnly=true;>
 
-                            <div class="stat-widget">
-                                <div class="stat-button">
-                                    <p class="title">3,299</p>
-
-                                    <p class="detail">Subscribers</p>
-                                </div>
-                            </div>
-
-                            <div class="stat-widget">
-                                <div class="stat-button">
-                                    <p class="title">$1,500</p>
-
-                                    <p class="detail">Pending</p>
-                                </div>
-                            </div>
-
-                            <div class="stat-widget">
-                                <div class="stat-button">
-                                    <p class="title">$12,675</p>
-
-                                    <p class="detail">Completed</p>
-                                </div>
-                            </div>
-
+                            <h3 class="text-muted text-center">Completed</h3>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="row-fluid">
-                <div class="block span6">
-                    <a href="#tablewidget" class="block-heading" data-toggle="collapse">Users<span
-                            class="label label-warning">+10</span></a>
-
-                    <div id="tablewidget" class="block-body collapse in">
-                        <table class="table">
-                            <thead>
-                            <tr>
-                                <th>First Name</th>
-                                <th>Last Name</th>
-                                <th>Username</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td>Mark</td>
-                                <td>Tompson</td>
-                                <td>the_mark7</td>
-                            </tr>
-                            <tr>
-                                <td>Ashley</td>
-                                <td>Jacobs</td>
-                                <td>ash11927</td>
-                            </tr>
-                            <tr>
-                                <td>Audrey</td>
-                                <td>Ann</td>
-                                <td>audann84</td>
-                            </tr>
-                            <tr>
-                                <td>John</td>
-                                <td>Robinson</td>
-                                <td>jr5527</td>
-                            </tr>
-                            <tr>
-                                <td>Aaron</td>
-                                <td>Butler</td>
-                                <td>aaron_butler</td>
-                            </tr>
-                            <tr>
-                                <td>Chris</td>
-                                <td>Albert</td>
-                                <td>cab79</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                        <p><a href="/admin/home/usersPage">More...</a></p>
+        <div class="row">
+            <div class="col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading no-collapse">Not Collapsible<span class="label label-warning">+10</span>
                     </div>
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Username</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>Mark</td>
+                            <td>Tompson</td>
+                            <td>the_mark7</td>
+                        </tr>
+                        <tr>
+                            <td>Ashley</td>
+                            <td>Jacobs</td>
+                            <td>ash11927</td>
+                        </tr>
+                        <tr>
+                            <td>Audrey</td>
+                            <td>Ann</td>
+                            <td>audann84</td>
+                        </tr>
+                        <tr>
+                            <td>John</td>
+                            <td>Robinson</td>
+                            <td>jr5527</td>
+                        </tr>
+                        <tr>
+                            <td>Aaron</td>
+                            <td>Butler</td>
+                            <td>aaron_butler</td>
+                        </tr>
+                        <tr>
+                            <td>Chris</td>
+                            <td>Albert</td>
+                            <td>cab79</td>
+                        </tr>
+                        </tbody>
+                    </table>
                 </div>
-                <div class="block span6">
-                    <a href="#widget1container" class="block-heading" data-toggle="collapse">Collapsible </a>
+            </div>
+            <div class="col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <a href="#widget1container" class="panel-heading" data-toggle="collapse">Collapsible </a>
 
-                    <div id="widget1container" class="block-body collapse in">
-                        <h2>Using Ruby?</h2>
+                    <div id="widget1container" class="panel-body collapse in">
+                        <h2>Here's a Tip</h2>
 
                         <p>This template was developed with <a href="http://middlemanapp.com/"
                                                                target="_blank">Middleman</a> and includes .erb layouts
@@ -172,94 +161,107 @@
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="row-fluid">
-                <div class="block span6">
-                    <div class="block-heading">
-            <span class="block-icon pull-right">
-                <a href="#" class="demo-cancel-click" rel="tooltip" title="Click to refresh"><i
-                        class="icon-refresh"></i></a>
-            </span>
+        <div class="row">
+            <div class="col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading no-collapse">
+                <span class="panel-icon pull-right">
+                    <a href="#" class="demo-cancel-click" rel="tooltip" title="Click to refresh"><i
+                            class="fa fa-refresh"></i></a>
+                </span>
 
-                        <a href="#widget2container" data-toggle="collapse">History</a>
+                        Needed to Close
                     </div>
-                    <div id="widget2container" class="block-body collapse in">
-                        <table class="table list">
-                            <tbody>
-                            <tr>
-                                <td>
-                                    <p><i class="icon-user"></i> Mark Otto</p>
-                                </td>
-                                <td>
-                                    <p>Amount: $1,247</p>
-                                </td>
-                                <td>
-                                    <p>Date: 7/19/2012</p>
-                                    <a href="#">View Transaction</a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p><i class="icon-user"></i> Audrey Ann</p>
-                                </td>
-                                <td>
-                                    <p>Amount: $2,793</p>
-                                </td>
-                                <td>
-                                    <p>Date: 7/12/2012</p>
-                                    <a href="#">View Transaction</a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p><i class="icon-user"></i> Mark Tompson</p>
-                                </td>
-                                <td>
-                                    <p>Amount: $2,349</p>
-                                </td>
-                                <td>
-                                    <p>Date: 3/10/2012</p>
-                                    <a href="#">View Transaction</a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <p><i class="icon-user"></i> Ashley Jacobs</p>
-                                </td>
-                                <td>
-                                    <p>Amount: $1,192</p>
-                                </td>
-                                <td>
-                                    <p>Date: 1/19/2012</p>
-                                    <a href="#">View Transaction</a>
-                                </td>
-                            </tr>
+                    <table class="table list">
+                        <tbody>
+                        <tr>
+                            <td>
+                                <a href="#"><p class="title">Care Hospital</p></a>
 
-                            </tbody>
-                        </table>
-                    </div>
+                                <p class="info">Sales Rating: 86%</p>
+                            </td>
+                            <td>
+                                <p>Date: 7/19/2012</p>
+                                <a href="#">View Transaction</a>
+                            </td>
+                            <td>
+                                <p class="text-danger h3 pull-right" style="margin-top: 12px;">$20,500</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="#"><p class="title">Custom Eyesight</p></a>
+
+                                <p class="info">Sales Rating: 58%</p>
+                            </td>
+                            <td>
+                                <p>Date: 7/19/2012</p>
+                                <a href="#">View Transaction</a>
+                            </td>
+                            <td>
+                                <p class="text-danger h3 pull-right" style="margin-top: 12px;">$12,600</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="#"><p class="title">Clear Dental</p></a>
+
+                                <p class="info">Sales Rating: 76%</p>
+                            </td>
+                            <td>
+                                <p>Date: 7/19/2012</p>
+                                <a href="#">View Transaction</a>
+                            </td>
+                            <td>
+                                <p class="text-danger h3 pull-right" style="margin-top: 12px;">$2,500</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="#"><p class="title">Safe Insurance</p></a>
+
+                                <p class="info">Sales Rating: 82%</p>
+                            </td>
+                            <td>
+                                <p>Date: 7/19/2012</p>
+                                <a href="#">View Transaction</a>
+                            </td>
+                            <td>
+                                <p class="text-danger h3 pull-right" style="margin-top: 12px;">$22,400</p>
+                            </td>
+                        </tr>
+
+                        </tbody>
+                    </table>
                 </div>
-                <div class="block span6">
-                    <p class="block-heading">Not Collapsible</p>
+            </div>
+            <div class="col-sm-6 col-md-6">
+                <div class="panel panel-default">
+                    <a href="#widget2container" class="panel-heading" data-toggle="collapse">Collapsible </a>
 
-                    <div class="block-body">
-                        <h2>Tip of the Day</h2>
+                    <div id="widget2container" class="panel-body collapse in">
+                        <h2>Built with Less</h2>
+
+                        <p>The CSS is built with Less. There is a compiled version included if you prefer plain CSS.</p>
 
                         <p>Fava bean jícama seakale beetroot courgette shallot amaranth pea garbanzo carrot radicchio
                             peanut leek pea sprouts arugula brussels sprout green bean. Spring onion broccoli chicory
                             shallot winter purslane pumpkin gumbo cabbage squash beet greens lettuce celery. Gram
                             zucchini swiss chard mustard burdock radish brussels sprout groundnut. Asparagus horseradish
-                            beet greens broccoli brussels sprout bitterleaf groundnut cress sweet pepper leek bok choy
-                            shallot celtuce scallion chickpea radish pea sprouts.</p>
+                            beet greens broccoli brussels.</p>
 
-                        <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+                        <p><a class="btn btn-primary">Learn more »</a></p>
                     </div>
                 </div>
             </div>
-
-            <jsp:include flush="true" page="footer.jsp"/>
-
         </div>
+
+        <!-- footer -->
+        <jsp:include flush="true" page="footer.jsp"/>
+
+
     </div>
 </div>
 
@@ -271,6 +273,7 @@
         });
     });
 </script>
+
 
 </body>
 </html>

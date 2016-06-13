@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
   User: Viki.Feng
-  Date: 2016/4/11
-  Time: 14:06
+  Date: 2016/4/12
+  Time: 13:27
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -22,41 +22,46 @@
 <!--[if IE 9 ]>
 <body class="ie ie9 "> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<body class="">
+<body class=" theme-blue">
 <!--<![endif]-->
 
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav pull-right">
-
-        </ul>
-        <a class="brand" href="/admin/demo/indexPage"><span class="first">Your</span> <span class="second">Company</span></a>
+<div class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+        <a class="" href="/admin/demo/indexPage"><span class="navbar-brand"><span class="fa fa-paper-plane"></span> Aircraft</span></a>
     </div>
+
+    <div class="navbar-collapse collapse" style="height: 1px;">
+
+    </div>
+</div>
 </div>
 
 
-<div class="row-fluid">
-    <div class="dialog">
-        <div class="block">
-            <p class="block-heading">Sign In</p>
+<div class="dialog">
+    <div class="panel panel-default">
+        <p class="panel-heading no-collapse">Sign In</p>
 
-            <div class="block-body">
-                <form>
+        <div class="panel-body">
+            <form>
+                <div class="form-group">
                     <label>Username</label>
-                    <input type="text" class="span12">
+                    <input type="text" class="form-control span12">
+                </div>
+                <div class="form-group">
                     <label>Password</label>
-                    <input type="password" class="span12">
-                    <a href="/admin/demo/indexPage" class="btn btn-primary pull-right">Sign In</a>
-                    <label class="remember-me"><input type="checkbox"> Remember me</label>
+                    <input type="password" class="form-controlspan12 form-control">
+                </div>
+                <a href="/admin/demo/indexPage" class="btn btn-primary pull-right">Sign In</a>
+                <label class="remember-me"><input type="checkbox"> Remember me</label>
 
-                    <div class="clearfix"></div>
-                </form>
-            </div>
+                <div class="clearfix"></div>
+            </form>
         </div>
-        <p class="pull-right" style=""><a href="#" target="blank">Theme by Portnine</a></p>
-
-        <p><a href="/admin/demo/resetPasswordPage">Forgot your password?</a></p>
     </div>
+    <p class="pull-right" style=""><a href="#" target="blank" style="font-size: .75em; margin-top: .25em;">Design by
+        Portnine</a></p>
+
+    <p><a href="reset-password.html">Forgot your password?</a></p>
 </div>
 
 <script type="text/javascript">
@@ -67,6 +72,7 @@
         });
     });
 </script>
+
 
 </body>
 </html>

@@ -23,7 +23,7 @@
     <div class="error-page text-center">
       <h3>4<span>0</span>4</h3>
       <p>Sorry Page Not Found</p>
-      <a class="button curl-bottom-right two" href="index.html">Back To Home</a>
+      <a class="button curl-bottom-right two" href="/demo/indexPage">Back To Home</a>
     </div>
   </div>
 </div>
